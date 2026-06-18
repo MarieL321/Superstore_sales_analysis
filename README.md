@@ -1,11 +1,13 @@
 # Superstore_sales_analysis
 Exploratory data analysis of Superstore sales and profit data.
+## Dataset
+The analysis is based on the Superstore dataset, which contains sales, profit, customer, product, and regional information from a retail business.
 ## Overview 
 This project analyzes sales and profit data from the Superstore dataset to identify key business trends and performance insights. 
 ## Objectives
 - Analyze sales and profit performance
 - Identify high and low performing categories
-- Understand impact of discounts on proftitability
+- Understand impact of discounts on profitability
 - Evaluate regional and product-level trends.
 ## Tools Used
 - Python
